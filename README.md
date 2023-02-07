@@ -7,6 +7,7 @@ A to do app. This is an educational project. The user can sign in or log in to u
 
 ## Technologies
 Project was created with:
+* API
 * React
 * JavaScript, TypeScript
 * Bulma framework
